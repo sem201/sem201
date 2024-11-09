@@ -1,5 +1,9 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{sem201}"/>
+<img
+  src="https://render.gitanimals.org/farms/sem201"
+  width="600"
+  height="300"
+/>
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sem201&show_icons=true&theme=dracula)
