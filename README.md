@@ -1,15 +1,8 @@
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/sem201"
-  width="600"
-  height="300"
-/>
-</a>
-</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sem201&show_icons=true&theme=dracula)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sem201&theme=dark)](https://git.io/streak-stats)
 <!--
 **sem201/sem201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
