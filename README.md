@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📚STACKS</h3>
+<h3 align="center">📚STACKS</h3>
 
 ###
 
