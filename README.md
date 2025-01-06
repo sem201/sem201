@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -50,6 +49,7 @@
 <img src="https://raw.githubusercontent.com/sem201/sem201/output/snake.svg" alt="Snake animation" />
 
 ###
+<--!
 **sem201/sem201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
