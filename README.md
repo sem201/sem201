@@ -1,8 +1,8 @@
 
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sem201&show_icons=true&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sem201&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=sem201&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sem201&theme=dark)](https://git.io/streak-stats"/>
 </div>
   <!--
 **sem201/sem201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
